@@ -1,3 +1,3 @@
-#NanoClock
+# NanoClock
 See README.TXT
 
